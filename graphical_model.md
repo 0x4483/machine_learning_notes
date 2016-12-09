@@ -22,6 +22,15 @@ src: http://bayes.cs.ucla.edu/BOOK-2K/causality2-epilogue.pdf
 Bayes Net is generative model because it shows how we generate effects from causes. DBN are directed model of 
 [stochastic process](https://en.wikipedia.org/wiki/Stochastic_process). Most common DBN(s) are Hidden Markov Model and Linear Dynamics Systems(LDS). Every node in LDS has gaussian distributions. 
 
+### [Instance Based Learning] (https://en.wikipedia.org/wiki/Instance-based_learning)
+
+### Model Hierachy 
+Let mb(x) be the markov blanket of x 
+Local Markov Property: x is independent with the rest of the world given mb(x) 
+Pairwise Markov Property: x is independent with y given the rest of the world 
+Global Markov Property: A and B are independent given C that cuts A and B
+
+
 
 
                   
