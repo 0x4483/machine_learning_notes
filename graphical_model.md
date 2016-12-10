@@ -30,6 +30,15 @@ Local Markov Property: x is independent with the rest of the world given mb(x)
 Pairwise Markov Property: x is independent with y given the rest of the world 
 Global Markov Property: A and B are independent given C that cuts A and B
 
+### Regularization 
+src: https://www.quora.com/What-is-regularization-in-machine-learning <br>
+When we add too many variables to our model, our model might overfit. When we overfit, our model becomes good and has better predicting power but it learns background noises. To regularize it, there are many options. L0 is the minimizing parameters in the model. 
+
+
+
+
+
+
 
 
 
